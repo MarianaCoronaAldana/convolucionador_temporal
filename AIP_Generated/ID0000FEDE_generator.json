@@ -1,0 +1,47 @@
+{
+    "ipdata": {
+        "comment": "TESTING MODULE",
+        "enom": "IP_DUMMY",
+        "ipid": "0000FEDE"
+    },
+    "memories": {
+        "cfgReg": {
+        },
+        "memIn": [
+            {
+                "comment": "",
+                "enom": "MEM_A_i",
+                "size": "32",
+                "val": "5'b00000"
+            }
+        ],
+        "memInStream": {
+        },
+        "memOut": [
+            {
+                "comment": "",
+                "enom": "MMEM_A_o",
+                "size": "64",
+                "val": "5'b00010"
+            }
+        ],
+        "memOutStream": {
+        }
+    },
+    "regs": {
+        "reg1": "INT_2",
+        "reg10": "NOTE_2",
+        "reg11": "",
+        "reg12": "",
+        "reg13": "",
+        "reg14": "",
+        "reg15": "",
+        "reg2": "INT_3",
+        "reg3": "",
+        "reg4": "",
+        "reg5": "",
+        "reg6": "",
+        "reg7": "",
+        "reg9": "NOTE_1"
+    }
+}
